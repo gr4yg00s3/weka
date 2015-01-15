@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/1MaV3RiCk/AndroidStudioProjects/WekaEvaluate/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-228ee9b2ff5b56e8337dc81f2d88f7bb973fb4a7.jar" />
+    </item>
+    <item
+        jar="/Users/1MaV3RiCk/AndroidStudioProjects/WekaEvaluate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/1MaV3RiCk/AndroidStudioProjects/WekaEvaluate/app/build/intermediates/pre-dexed/debug/classes-c503d7b117a096f7fc4b0f56d896b02bdc11bdeb.jar" />
+    </item>
+    <item
+        jar="/Users/1MaV3RiCk/AndroidStudioProjects/WekaEvaluate/app/libs/wekaSTRIPPED.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
+        <dex dex="/Users/1MaV3RiCk/AndroidStudioProjects/WekaEvaluate/app/build/intermediates/pre-dexed/debug/wekaSTRIPPED-a0d0dba061afd7548319d6324375a4cf6e4366b1.jar" />
+    </item>
+
+</items>
