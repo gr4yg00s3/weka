@@ -1,6 +1,5 @@
 package com.example.mav3rick.wekaevaluate;
 
-import android.provider.CalendarContract;
 
 import java.io.File;
 import java.io.IOException;
@@ -18,7 +17,7 @@ public class Classify {
 
     NaiveBayesUpdateable nbu = new NaiveBayesUpdateable();
 
-
+    //Checking git commit
     public int Train (String fname) {
 
         int flag = 1;
