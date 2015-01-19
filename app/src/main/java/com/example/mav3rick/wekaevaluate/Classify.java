@@ -52,7 +52,7 @@ public class Classify {
 
         String [] options = new String[2];
         options[0] = "-t";
-        options[1] = "/sdcard/"+fname+".arff";
+        options[1] = "/sdcard/"+fname+".csv";
 
         String out = null;
 
